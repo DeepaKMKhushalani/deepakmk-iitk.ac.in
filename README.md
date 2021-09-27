@@ -1,2 +1,2 @@
-# deepakmk-iitk.ac.in
+# deepakmk.github.io
 Personal website
